@@ -58,8 +58,8 @@ matching the API above).
 ## Demo credentials
 
 ```
-email:    vigneshwarravi26@gmail.com
-password: User@12345
+email:    demo@1fi.app
+password: Demo@1234
 ```
 
 The login page also shows these credentials inline for convenience.
